@@ -6,4 +6,4 @@ The game is downloaded pre-trained, but if you'd like to retrain it yourself, em
 
 https://user-images.githubusercontent.com/85026552/183314189-68a9fb7d-b967-47b7-b054-0815c20a8c38.mp4
 
-Made by Nick Jaco
+Made by Nick Jano
